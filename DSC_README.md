@@ -33,7 +33,7 @@ The following libraries were used for our project and will need to be installed 
 - scikit-learn
 - imblearn
 
-### Instructions
+### Installation
 
 ```bash
   pip install pandas scikit-learn matplotlib seaborn xgboost lightgbm
