@@ -138,3 +138,16 @@ The dataset contains `88 features`.
     - Evaluation result for test set: 
         - `AUC Score: {}`
 - Based on our evaluation metric `AUC Score`, we selected the best model: `{model}` for our prediction.
+
+**Prediction Result**
+
+<table>
+  <tr>
+    <th> Fraud </th>
+    <td>{count}</td>
+  </tr>
+  <tr>
+    <th> Non-Fraud </th>
+    <td>{count}</td>
+  </tr>
+</table>
